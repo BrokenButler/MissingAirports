@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brokenbutler-airport-nzrn-raoulislandairstrip/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132398945780000000
+    },
+    {
+      "path": "scenery/NZRN-Airport.bgl",
+      "size": 2095,
+      "date": 132580114113666170
+    },
+    {
+      "path": "scenery/NZRN-POLYGON.BGL",
+      "size": 1138,
+      "date": 132580114113781270
+    }
+  ]
+}

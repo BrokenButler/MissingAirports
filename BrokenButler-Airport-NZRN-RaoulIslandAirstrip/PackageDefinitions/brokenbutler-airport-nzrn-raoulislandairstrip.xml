@@ -1,9 +1,9 @@
 <AssetPackage Name="brokenbutler-airport-nzrn-raoulislandairstrip" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title/>
+		<Title>Raoul Island Airstrip</Title>
 		<Manufacturer/>
-		<Creator/>
+		<Creator>BrokenButler</Creator>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
@@ -15,16 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\brokenbutler-airport-nzrn-raoulislandairstrip\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\brokenbutler-airport-nzrn-raoulislandairstrip</OutputDir>
+			<AssetDir>PackageDefinitions\brokenbutler-airport-nzrn-raoulislandairstrip\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\brokenbutler-airport-nzrn-raoulislandairstrip\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="brokenbutler-airport-nzrn-raoulislandairstrip">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
